@@ -1,0 +1,13 @@
+slno,swim,fly,crawl,class
+1,fast,no,no,fish
+2,fast,no,yes,animal
+3,slow,no,no,animal
+4,fast,no,no,animal
+5,no,short,no,bird
+6,no,short,no,bird
+7,no,rarely,no,animal
+8,slow,no,yes,animal
+9,slow,no,no,fish
+10,slow,no,yes,fish
+11,no,lomg,no,bird
+12,fast,no,no,bird
