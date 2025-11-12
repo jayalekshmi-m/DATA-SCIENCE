@@ -1,0 +1,12 @@
+
+
+
+customer,age,annual_income,gender,Buys_Luxury_Product
+c1,22,25000,Male,no 
+c2,47,80000,Female,yes 
+c3,35,45000,Male,no 
+c4,29,30000,Female,no 
+c5,50,95000,Female,yes 
+c6,41,60000,Male,yes 
+c7,23,28000,Female,no 
+c8,60,11000,Male,yes
