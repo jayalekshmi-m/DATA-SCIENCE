@@ -1,0 +1,12 @@
+
+
+
+age,income,owns_car,buys_product 
+Young,High,no,no 
+Young,Medium,no,yes 
+Middle,High,yes,yes 
+Old,Low,no,no 
+Old,Medium,yes,yes 
+Middle,Low,yes,yes 
+Young,Low,no,no 
+Old,High,yes,yes
